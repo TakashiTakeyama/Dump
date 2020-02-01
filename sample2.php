@@ -57,7 +57,7 @@ class Test
                 //改めてスロー
 //            echo $e->getMessage();
                 throw $e;
-                
+
 
             }
         } catch (Exception $e) {
@@ -71,6 +71,5 @@ class Test
  * キャッシュは一度閲覧したホームページの情報
  * クッキーはuser_idやパスワードなどのユーザー自身がWebブラウザに入力した情報
  */
-ko
 
 
