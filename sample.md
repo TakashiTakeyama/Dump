@@ -24,3 +24,8 @@ Laravelの場合サービスコンテナと呼ぶ
 ### MySQLの接続方式
 **MySQL8.0.4以降** のログイン認証方式は caching_sha2_password がデフォルト  
 PHPのMySQL接続ライブラリが caching_sha2_password　に未対応のため接続不可
+
+### Apache errorlog
+```
+/var/log/httpd/error_log
+```
